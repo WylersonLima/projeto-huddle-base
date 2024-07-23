@@ -1,0 +1,73 @@
+@media(max-width: 1024px) {
+    body {
+        background-size: contain;
+        background-position: top;
+    }
+
+    .secao-principal {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 4rem 3rem 0 3rem;
+    }
+
+    .secao-principal .info {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+
+    .footer .social {
+        display: flex;
+        justify-content: center;
+        margin: 3rem;
+        
+    }
+}
+
+@media(max-width: 430px) {
+    body {
+        background-image: url(/src/images/bg-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .cabecalho {
+        margin: 2.5rem 0 1rem 2.5rem;
+    }
+
+    .cabecalho img {
+        width: 12rem;
+
+    }
+
+    .secao-principal{
+        padding: 2rem 2.5rem 0 2.5rem;
+        gap: 5rem;
+    }
+
+    .secao-principal .illustration-mockups {
+        width: 100%;
+    } 
+
+    .secao-principal .info h1 {
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+    .secao-principal .info p {
+        font-size: 1.3rem;
+        font-weight: 300;
+    }
+
+    .btn-register {
+        font-size: 1.2rem;
+        padding: 1rem 7rem;
+    }
+
+    .footer .social a {
+        padding: 1rem;
+        font-size: 2rem;
+    }
+}
