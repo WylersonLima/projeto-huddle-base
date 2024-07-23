@@ -1,4 +1,4 @@
-# Coloquem informações do projeto aqui!
+# Minha Solução para a Quest HTML E CSS AVANÇADO!
 
 ** Nesse projeto temos uma landing page com a intenção de registro ao site e visitação de redes sociais **
 
