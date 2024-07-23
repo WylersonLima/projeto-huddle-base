@@ -28,7 +28,7 @@
 
 @media(max-width: 430px) {
     body {
-        background-image: url(/src/images/bg-mobile.png);
+        background-image: url(../images/bg-mobile.svg);
         background-repeat: no-repeat;
         background-size: contain;
     }

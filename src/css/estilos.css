@@ -7,7 +7,7 @@
 
 body {
     background-color: var(--Violet);
-    background-image: url(/src/images/bg-desktop.png);
+    background-image: url(../images/bg-desktop.svg);
     background-repeat: no-repeat;
     background-position: left;
     font-family: "Poppins", sans-serif;
